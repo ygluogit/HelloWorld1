@@ -3,4 +3,4 @@ function cal(a, b) {
 }
 // call this function
 cal(5, 10);
-cal(2, 5);
+cal(3, 9);
